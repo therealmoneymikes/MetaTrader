@@ -1,0 +1,3 @@
+C:/Users/Michael Roberts/dlls/build/CMakeFiles/priceplotdll.dir
+C:/Users/Michael Roberts/dlls/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Michael Roberts/dlls/build/CMakeFiles/ZERO_CHECK.dir
